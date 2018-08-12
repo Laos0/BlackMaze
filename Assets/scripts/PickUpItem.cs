@@ -18,7 +18,7 @@ public class PickUpItem : MonoBehaviour {
                 Destroy(col.gameObject);
             }
 
-            Debug.Log("hit");
+            //Debug.Log("hit");
           
         }
     }
